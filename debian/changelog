@@ -1,3 +1,9 @@
+gcolor2 (0.4-2.1+blankon1.1) suroboyo; urgency=low
+
+  * Upload for suroboyo
+
+ -- Mahyuddin <dotovr@di.blankon.in>  Fri, 01 Feb 2013 23:40:33 +0700
+
 gcolor2 (0.4-2.1+blankon0.1) rote-updates; urgency=low
 
   * Change icons path:
