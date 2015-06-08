@@ -1,3 +1,9 @@
+gcolor2 (0.4-2.1blankon1) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 08 Jun 2015 11:28:23 +0700
+
 gcolor2 (0.4-2.1+blankon1.1) suroboyo; urgency=low
 
   * Upload for suroboyo
